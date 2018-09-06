@@ -12,7 +12,7 @@ He is specialize in Artificial intelligence, Data Mining, Machine Learning, Natu
 
 He hold's a Bachelor of Engineering (Information science) from Visvesvaraya Technological University, Belgaum, Karnataka and have over 6+ years of experience in the field with multiple awards under his belt.
 
-Please do check out His Artificial intelligence portfolio and plese join with him to make a AI driven world. 
+Please do check out his Artificial intelligence portfolio and plese join with him to make a AI driven world. 
 
 ### Contact me
 
