@@ -1,14 +1,8 @@
 ---
 layout: post
 title: TeamAI - Hackathon dairy
+ogimage: {{ site.baseurl }}/images/hackathon.jpg
 ---
-
-
-<head>
-
-<meta property="og:image" content="{{ site.baseurl }}/images/hackathon.jpg" />
-
-</head>
 
 
 [BingatMicrosoft - TeamAI - Hackathon dairy - 1](https://github.com/Ravirajabhat/BingatMicrosoft)
