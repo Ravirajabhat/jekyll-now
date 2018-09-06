@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hello, this is Raviraja's Blog,
+Welcome to Raviraja's Blog,
 
 He would like to consider himself as an explorer of technology. Champion of good development process and best practices. Great problem solving techniques, active team participant and capable of working independently. Simple, friendly, approachable and a fast learner besides being a good team player. 
 
