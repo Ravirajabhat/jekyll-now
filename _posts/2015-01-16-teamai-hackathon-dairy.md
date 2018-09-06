@@ -3,7 +3,7 @@ layout: post
 title: TeamAI - Hackathon dairy
 ogimage: https://raw.githubusercontent.com/Ravirajabhat/ravirajabhat.github.io/master/images/hackathon.jpg
 ---
-
+Team AI - Let's hack to learn
 
 [BingatMicrosoft - TeamAI - Hackathon dairy - 1](https://github.com/Ravirajabhat/BingatMicrosoft)
 
