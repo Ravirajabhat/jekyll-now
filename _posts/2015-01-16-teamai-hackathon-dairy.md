@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TeamAI - Hackathon dairy
-ogimage: (/images/hackathon.jpg)
+ogimage: https://raw.githubusercontent.com/Ravirajabhat/ravirajabhat.github.io/master/images/hackathon.jpg
 ---
 
 
