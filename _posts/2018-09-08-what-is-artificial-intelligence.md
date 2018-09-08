@@ -14,8 +14,8 @@ The Vision intelligence or Computer vision is an interdisciplinary field that de
 
 ### Major tasks / Challenges
 
-- [Image Recognision](https://en.wikipedia.org/wiki/Computer_vision#Recognition)
-- [Motion Analsis](https://en.wikipedia.org/wiki/Computer_vision#Motion_analysis)
+- [Image Recognition](https://en.wikipedia.org/wiki/Computer_vision#Recognition)
+- [Motion Analysis](https://en.wikipedia.org/wiki/Computer_vision#Motion_analysis)
 - [Scene reconstruction](https://en.wikipedia.org/wiki/Computer_vision#Scene_reconstruction)
 - [Image restoration](https://en.wikipedia.org/wiki/Computer_vision#Image_restoration)
 
