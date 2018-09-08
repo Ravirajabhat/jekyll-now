@@ -35,7 +35,7 @@ Natural language processing (NLP) is an area of computer science and artificial 
 ## Robotics
 ----
 
-In simple words, Robotics is a interdisciplinary field of since that is trying to to develop machines that can substitute for humans and replicate human actions.[Wiki](https://en.wikipedia.org/wiki/Robotics)
+In simple words, Robotics is a interdisciplinary field of science that is trying to to develop machines that can be substitute for humans and replicate human actions.[Wiki](https://en.wikipedia.org/wiki/Robotics)
 
 ### Major tasks / Challenges
 
