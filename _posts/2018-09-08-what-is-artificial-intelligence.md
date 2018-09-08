@@ -43,3 +43,22 @@ In simple words, Robotics is a interdisciplinary field of since that is trying t
 - [Robotic sensing](https://en.wikipedia.org/wiki/Robotic_sensing)
 - [Human–robot interaction](https://en.wikipedia.org/wiki/Human%E2%80%93robot_interaction)
 - [Robot locomotion](https://en.wikipedia.org/wiki/Robot_locomotion)
+
+## History Behind Artificial Intelligence
+---
+
+![](https://raw.githubusercontent.com/Ravirajabhat/ravirajabhat.github.io/master/images/Artificial%20Inteligence-history.png)
+
+## Key Tools / Techologies Behind Artificial Intelligence
+---
+
+- [Computational statistics] (https://en.wikipedia.org/wiki/Computational_statistics)
+- [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
+- [Data mining](https://en.wikipedia.org/wiki/Data_mining) / [Data Science](https://en.wikipedia.org/wiki/Data_science)
+- [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning)
+
+---
+
+I am very happy to share this knowledge. This is the my understanding of Artificial Intelligence, please feel free to reach out to [me](https://www.linkedin.com/in/ravirajabhat/) if you have any input/suggestions/different openion.  
+
+Thank you for reading!!.
