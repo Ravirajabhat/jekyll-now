@@ -39,7 +39,7 @@ In simple words, Robotics is a interdisciplinary field of since that is trying t
 
 ### Major tasks / Challenges
 
-- [Better Power Spource](https://en.wikipedia.org/wiki/Robotics#Power_source)
+- [Better Power Source](https://en.wikipedia.org/wiki/Robotics#Power_source)
 - [Robotic sensing](https://en.wikipedia.org/wiki/Robotic_sensing)
 - [Human–robot interaction](https://en.wikipedia.org/wiki/Human%E2%80%93robot_interaction)
 - [Robot locomotion](https://en.wikipedia.org/wiki/Robot_locomotion)
