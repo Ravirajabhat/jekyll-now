@@ -7,7 +7,8 @@ In simple words, Artificial intelligence is a filed of science that is trying to
 
 ![](https://raw.githubusercontent.com/Ravirajabhat/ravirajabhat.github.io/master/images/Artificial%20Inteligence.png)
 
-## Vision Intelligence / Computer vision 
+## Vision Intelligence / Computer vision
+----
 
 The Vision intelligence or Computer vision is an interdisciplinary field that deals with how computers can be made to gain high-level understanding from digital images or videos.[Wiki](https://en.wikipedia.org/wiki/Computer vision) 
 
@@ -19,6 +20,7 @@ The Vision intelligence or Computer vision is an interdisciplinary field that de
 - [Image restoration](https://en.wikipedia.org/wiki/Computer_vision#Image_restoration)
 
 ## Voice Inteligence / Natural Language Processing
+----
 
 Natural language processing (NLP) is an area of computer science and artificial intelligence concerned with the interactions between computers and human (natural) languages, in particular how to program computers to process and analyze large amounts of natural language data.[Wiki](https://en.wikipedia.org/wiki/Natural_language_processing)
 
@@ -31,6 +33,7 @@ Natural language processing (NLP) is an area of computer science and artificial 
 
 
 ## Robotics
+----
 
 In simple words, Robotics is a interdisciplinary field of since that is trying to to develop machines that can substitute for humans and replicate human actions.[Wiki](https://en.wikipedia.org/wiki/Robotics)
 
