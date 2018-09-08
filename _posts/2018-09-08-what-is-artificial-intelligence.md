@@ -52,13 +52,13 @@ In simple words, Robotics is a interdisciplinary field of since that is trying t
 ## Key Tools / Techologies Behind Artificial Intelligence
 ---
 
-- [Computational statistics] (https://en.wikipedia.org/wiki/Computational_statistics)
+- [Computational statistics](https://en.wikipedia.org/wiki/Computational_statistics)
 - [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
 - [Data mining](https://en.wikipedia.org/wiki/Data_mining) / [Data Science](https://en.wikipedia.org/wiki/Data_science)
 - [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning)
 
 ---
 
-I am very happy to share this knowledge. This is the my understanding of Artificial Intelligence, please feel free to reach out to [me](https://www.linkedin.com/in/ravirajabhat/) if you have any input/suggestions/different openion.  
+I am very happy to share this knowledge. This is my understanding of Artificial Intelligence, please feel free to reach out to [me](https://www.linkedin.com/in/ravirajabhat/) if you have any input/suggestions/different openion.  
 
 Thank you for reading!!.
