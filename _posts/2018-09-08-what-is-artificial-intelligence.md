@@ -59,6 +59,6 @@ In simple words, Robotics is a interdisciplinary field of science that is trying
 
 ---
 
-I am very happy to share my collective knowledge. This is my understanding of Artificial Intelligence, please feel free to reach out to [me](https://www.linkedin.com/in/ravirajabhat/) if you have any input/suggestions/different opinion.  
+I am very happy to share my collective knowledge. This is my understanding of Artificial Intelligence, please feel free to reach out to [me](https://www.linkedin.com/feed/update/urn:li:activity:6444115685957296128) if you have any input/suggestions/different opinion.  
 
 Thank you for reading!!.
