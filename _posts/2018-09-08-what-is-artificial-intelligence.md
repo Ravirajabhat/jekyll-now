@@ -49,7 +49,7 @@ In simple words, Robotics is a interdisciplinary field of science that is trying
 
 ![](https://raw.githubusercontent.com/Ravirajabhat/ravirajabhat.github.io/master/images/Artificial%20Inteligence-history.png)
 
-## Key Tools / Techologies Behind Artificial Intelligence
+## Key Tools / Technology Behind Artificial Intelligence
 ---
 
 - [Computational statistics](https://en.wikipedia.org/wiki/Computational_statistics)
