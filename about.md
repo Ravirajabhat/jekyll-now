@@ -17,4 +17,5 @@ Please do check out his Artificial intelligence portfolio and join with him to m
 ### Contact me
 
 [ravirajbhat154@gmail.com](mailto:ravirajbhat154@gmail.com)
+
 [LinkedIn](https://in.linkedin.com/in/ravirajabhat)
