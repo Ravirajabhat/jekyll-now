@@ -2,6 +2,8 @@
 layout: page
 title: About
 permalink: /about/
+type: profile
+url: https://ravirajabhat.github.io/about/
 ---
 
 Welcome to Raviraja's Blog,
