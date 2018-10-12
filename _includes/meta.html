@@ -2,10 +2,16 @@
     <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
     <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+    {% if page.type %}
+    <meta property="og:type" content="{{ site.type }}" />
+    {% else %}
+    <meta property="og:type" content="website" />
+    {% endif %}
 
     {% if page.excerpt %}
     <meta name="description" content="{{ page.excerpt| strip_html }}" />
     <meta property="og:description" content="{{ page.excerpt| strip_html }}" />
+    <meta name="twitter:card" value="{{ page.excerpt| strip_html }}">
     {% else %}
     <meta name="description" content="{{ site.description }}">
     <meta property="og:description" content="{{ site.description }}" />
@@ -19,4 +25,10 @@
 
     {% if page.ogimage %}
     <meta property="og:image" content="{{ page.ogimage }}" />
+    {% endif %}
+
+    {% if page.url %}
+    <meta property="og:url" content="{{ page.url }}" />
+    {% else %}
+    <meta property="og:url" content="https://ravirajabhat.github.io/">
     {% endif %}
