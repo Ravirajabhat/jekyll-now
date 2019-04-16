@@ -1,9 +1,11 @@
 ---
 layout: post
-title: TeamAI - Sample Kickstarter Templates
+title: Sample Kickstarter Templates
 ogimage: https://raw.githubusercontent.com/Ravirajabhat/ravirajabhat.github.io/master/images/hackathon.jpg
 ---
-Here is the list of sample kickstarter templates for each technology with Industry standards , please feel free to use these projects as refference and feel free to reachout to me if you have any doubts
+Here is the list of sample kickstarter templates for each technology with industry standards. 
+
+Please feel free to use these projects as refference and feel free to reachout to me if you have any queries
 
 * [Sample  flask web app + Bootstrap + Jquery](https://gitlab.com/ravirajbhat154/FlaskSamples)
 
