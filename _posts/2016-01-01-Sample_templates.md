@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sample Kick-start Project Templates For Python/Java/C# Beginners
-ogimage: https://get.pxhere.com/photo/landscape-tree-nature-forest-path-branch-light-plant-sky-sun-sunrise-photography-sunlight-morning-leaf-atmosphere-evening-autumn-yellow-woodland-phenomenon-stock-photography-woody-plant-1417564.jpg
+ogimage: https://raw.githubusercontent.com/Ravirajabhat/ravirajabhat.github.io/master/images/landscape-tree-nature-forest-path-branch-light-plant-sky-sun-sunrise-photography-sunlight-morning-leaf-atmosphere-evening-autumn-yellow-woodland-phenomenon-stock-photography-woody-pl[1].jpg
 ---
 Here is the list of sample kick-start project templates for Python/Java/C# with industry standards. 
 
