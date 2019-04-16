@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sample Usefull Kickstarter Templates For Python/Java/C# .net Beginners
+title: Sample Kick-start Templates For Python/Java/C# .net Beginners
 ogimage: https://get.pxhere.com/photo/landscape-tree-nature-forest-path-branch-light-plant-sky-sun-sunrise-photography-sunlight-morning-leaf-atmosphere-evening-autumn-yellow-woodland-phenomenon-stock-photography-woody-plant-1417564.jpg
 ---
 Here is the list of sample kickstarter templates for each technology with industry standards. 
