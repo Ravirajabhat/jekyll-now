@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sample Kickstarter Templates
-ogimage: https://raw.githubusercontent.com/Ravirajabhat/ravirajabhat.github.io/master/images/hackathon.jpg
+ogimage: https://get.pxhere.com/photo/landscape-tree-nature-forest-path-branch-light-plant-sky-sun-sunrise-photography-sunlight-morning-leaf-atmosphere-evening-autumn-yellow-woodland-phenomenon-stock-photography-woody-plant-1417564.jpg
 ---
 Here is the list of sample kickstarter templates for each technology with industry standards. 
 
