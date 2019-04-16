@@ -1,0 +1,12 @@
+---
+layout: post
+title: TeamAI - Sample Kickstarter Templates
+ogimage: https://raw.githubusercontent.com/Ravirajabhat/ravirajabhat.github.io/master/images/hackathon.jpg
+---
+Here is the list of sample kickstarter templates for each technology with Industry standards , please feel free to use these projects as refference and feel free to reachout to me if you have any doubts
+
+* [Sample  flask web app + Bootstrap + Jquery](https://gitlab.com/ravirajbhat154/FlaskSamples)
+
+* [Sample MVC4 Webapp + MUI + ADO.net + DbUp](https://gitlab.com/ravirajbhat154/MUI-MVC4-ADO.net-SAMPLE)
+
+* [Sample SpringBoot + Java + Hibernate + MSQL ](https://gitlab.com/ravirajbhat154/Samle-FlightBooking-SpringBootAPI-Java-MSQL)
