@@ -7,7 +7,7 @@ Here is the list of sample kick-start project templates for Python/Java/C# with 
 
 Please feel free to use these projects as refference and feel free to reachout to me if you have any queries
 
-* [Sample Python +_flask web app + Bootstrap + Jquery](https://gitlab.com/ravirajbhat154/FlaskSamples)
+* [Sample Python + flask web app + Bootstrap + Jquery](https://gitlab.com/ravirajbhat154/FlaskSamples)
 
 * [Sample C#.net + MVC4 Webapp + MUI + ADO.net + DbUp](https://gitlab.com/ravirajbhat154/MUI-MVC4-ADO.net-SAMPLE)
 
