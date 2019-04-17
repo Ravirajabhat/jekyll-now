@@ -1,3 +1,5 @@
+
+
 ---
 layout: post
 title: What is Artificial Intelligence?
@@ -51,6 +53,8 @@ In simple words, Robotics is a interdisciplinary field of science that is trying
 ---
 
 ![](https://raw.githubusercontent.com/Ravirajabhat/ravirajabhat.github.io/master/images/Artificial%20Inteligence-history.png)
+
+Please reffer [computer history](https://www.computerhistory.org/timeline/) for detailed timeline.
 
 ## Key Tools / Technology Behind Artificial Intelligence
 ---
