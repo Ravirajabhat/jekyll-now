@@ -1,5 +1,3 @@
-
-
 ---
 layout: post
 title: What is Artificial Intelligence?
